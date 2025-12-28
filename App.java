@@ -1,7 +1,4 @@
 import java.util.*;
-// TODO: Make the guessing AI smarter by narrowing the range after each guess (like binary search)
-// and add a leaderboard to track the fewest guesses across multiple rounds.
-// add emojis to represent the thinking of the computer
 public class App {
     public static void main(String[] args) throws Exception {
         @SuppressWarnings("resource")
@@ -157,5 +154,3 @@ public class App {
         
     }
 }
-//top 5 news headlines any given day 
-// crochet translator
